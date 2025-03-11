@@ -7,8 +7,6 @@
 
 📫 Vamos conversar? Conecte-se comigo!
 
-👋
-
 <!--
 **LeloPlayer/LeloPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
