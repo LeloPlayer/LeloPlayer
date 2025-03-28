@@ -16,7 +16,7 @@
 <br>
 <br>
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <div style="display: inline">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,9 +26,10 @@
   <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
-### 📊 Status Git Hub
+## 📊 Status Git Hub
 
 <div>
   <a href="https://github.com/LeloPlayer">
@@ -38,6 +39,10 @@
   <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeloPlayer&layout=compact&langs_count=7&theme=radical"/> 
   </center>
-</div>
-<br>
-<br>
+</div><br/>
+
+## Contatos 📫 <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-elias-carvalho-991826237)
+[![Gmail](https://img.shields.io/badge/-contato.samueleliascarvalho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contato.samueleliascarvalho@gmail.com)](mailto:contato.samueleliascarvalho@gmail.com)
+
