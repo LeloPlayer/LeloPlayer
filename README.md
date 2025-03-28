@@ -1,4 +1,9 @@
-## 👨‍💻 Samuel | Futuro Dev Full Stack
+## Samuel | Futuro Dev Full Stack 🎖
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header&text=🧑🏽‍💻+Samuel+Elias&fontsize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Samuel+Elias+de+Carvalho;Tenho+21+anos+de+idade;Sou+de+Suzano+SP;Estudante+de+analise+e+desenvolvimento+de+sistemas;Bem+vindo+ao+meu+Git+Hub!+s2)](https://git.io/typing-svg)
+<br>
+<br>
 🎯 Objetivo: Criar soluções eficientes e inovadoras para o mundo da tecnologia.
 
 💡 Interesses: Desenvolvimento Full Stack, análise de dados e automação.
@@ -8,6 +13,7 @@
 📚 Estudando: JavaScript, React, Node.js, DevOps, Python, C# e SQL.
 
 🚀 Projetos em andamento: Construção do meu portfólio e experimentação com novas tecnologias.
+<br>
 <br>
 
 ### 🤖 Linguagens e Tecnologias
