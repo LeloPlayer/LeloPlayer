@@ -8,7 +8,7 @@
 
 💡 Interesses: Desenvolvimento Full Stack, análise de dados e automação.
 
-⚙️ Atualmente: Jovem Aprendiz na área de produção, aprimorando minhas habilidades para migrar para o desenvolvimento de software.
+⚙️ Atualmente: Jovem Aprendiz de produção, aprimorando minhas habilidades para migrar para o desenvolvimento de software.
 
 📚 Estudando: JavaScript, React, Node.js, DevOps, Python, C# e SQL.
 
