@@ -43,7 +43,7 @@
 
 ## Contatos 📫 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-elias-carvalho-991826237)
+
 [![Gmail](https://img.shields.io/badge/-contato.samueleliascarvalho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contato.samueleliascarvalho@gmail.com)](mailto:contato.samueleliascarvalho@gmail.com)
 
 
